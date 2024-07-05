@@ -1,5 +1,5 @@
 import React from "react";
-import { VscArrowSwap } from "react-icons/vsc";
+
 import { IoMdNotificationsOutline } from "react-icons/io";
 import { FaSearch } from "react-icons/fa";
 import { FiMail } from "react-icons/fi";

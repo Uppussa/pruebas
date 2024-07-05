@@ -4,7 +4,7 @@ import ActivityLog from "./ActivityLog";
 import Navbar from "./Navbar";
 import Overview from "./Overview";
 
-import Wallets from "./Wallets";
+
 
 export default function DashboardApp() {
   return (
